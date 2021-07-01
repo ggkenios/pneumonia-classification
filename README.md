@@ -1,6 +1,6 @@
 # Pneumonia 3-Class Classification
 The code used for my submissions, winning the in-class <a href="https://www.kaggle.com/c/detect-pneumonia-fall-2021/leaderboard"> Kaggle competition</a>, can be found:
-* <a href="https://colab.research.google.com/drive/1SscqutZjmk5CDowhF3I7bMF30KM7C1sD?usp=sharing">Colab</a>
+* <a href="https://colab.research.google.com/drive/1SscqutZjmk5CDowhF3I7bMF30KM7C1sD?usp=sharing">Google Colab</a>
 * <a href="https://github.com/Ggkenios/Pneumonia_Classification/blob/main/Detect_Pneumonia.ipynb">GitHub</a> 
 
 ## Goal
