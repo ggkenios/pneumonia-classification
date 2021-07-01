@@ -7,7 +7,7 @@ The code used for my submissions, winning the in-class <a href="https://www.kagg
 * <a href="https://github.com/Ggkenios/Pneumonia_Classification/blob/main/Detect_Pneumonia.ipynb">GitHub</a> 
 
 ## Goal
-The goal was to classify 1168 chest x-ray images into 3 classes:
+The goal was to classify chest x-ray images into 3 classes:
 * no disease
 * bacterial pneumonia
 * viral pneumonia 
