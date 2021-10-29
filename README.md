@@ -8,7 +8,7 @@ The code used for my submissions, winning the in-class <a href="https://www.kagg
 
 ## Goal
 The goal was to classify chest x-ray images into 3 classes:
-* no disease
+* healthy
 * bacterial pneumonia
 * viral pneumonia 
 
