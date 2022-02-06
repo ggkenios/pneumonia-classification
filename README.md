@@ -14,9 +14,9 @@ The goal was to classify chest x-ray images into 3 classes:
 
 ## Dataset 
 The training dataset consisted of 4672 images out of which:
-* 1227 images belong to class 0
-* 2238 images belong to class 1
-* 1207 images belong to class 2 
+* 1227 images belong to healthy subjects
+* 2238 images belong to bacterial pneumonia subjects
+* 1207 images belong to viral pneumonia subjects
 
 ## Sumbission
 The submissions employed:
